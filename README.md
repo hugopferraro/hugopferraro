@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hugo Ferraro
 
-I'm a **Junior Software Engineer** focused on building AI-powered applications. I am passionate about leveraging modern technologies to deliver high-quality software and currently on the path of becoming an ML Engineer.
+I'm a **Junior Software Engineer** focused on building AI-powered applications. I am passionate about leveraging modern technologies to deliver high-quality software and currently on the journey of ML Engineering.
 
 ## 💻 Technologies I Work With
 
