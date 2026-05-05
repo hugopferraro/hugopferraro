@@ -24,7 +24,7 @@ I'm a **Junior Software Engineer** focused on building AI-powered applications. 
 
 ## 🎓 Education
 
-### Bachelor's Degree in Data Science and Artificial Intelligence
+### Bachelor's Degree in Data Science and Artificial Intelligence (2024 - 2028)
 
 **SENAI CIMATEC**  
 Salvador, Bahia, Brazil
